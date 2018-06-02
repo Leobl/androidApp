@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="30" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.DataStructures">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructures" RUN_TARGET_NAME="DataStructures" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="DataStructures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructures" TARGET_NAME="DataStructures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructures" RUN_TARGET_NAME="DataStructures" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.DataStructures" />
+    </list>
+  </component>
+</project>
